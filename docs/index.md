@@ -10,17 +10,15 @@ title: Austin Wilson's Resume
 </div>
 
 ## Education
-`2017-Current`
+`2017 - Expected Graduation of 2022`
 __BYU Idaho__, Rexburg, Idaho
 - Major - Business Analytics
 - Expected Major GPA of 3.5
 ## Skills
 #### Competent Skills
 - SQL (2-Years)
-- Harvard Excel Certified
 - Python (2-Years)
-- Problem Solving Skills
-- Communication Skills
+- Harvard Excel Certified
 
 #### Basic Skills
 - C++ (1-Year)
